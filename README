@@ -1,0 +1,11 @@
+A simple webcam script.
+
+Press the space bar and it'll count down from three.  At zero it will save the
+current image to the images/ folder.  Esc to close.  Works on Linux, probably
+doesn't work on Windows.
+
+This was a short little project that I wrote on a whim.  There is lots of room
+for improvement, but I doubt I'll ever get much further than what I have here.
+
+License for this stuff is MIT.
+
